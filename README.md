@@ -16,7 +16,7 @@ As a lifelong learner, I'm committed to continuously improving my skills and sta
 ### Let's Connect
 I'm open to connecting with fellow developers, tech enthusiasts, and potential collaborators. Feel free to reach out to me if you have any interesting projects or ideas to discuss. Let's create something amazing together!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-AvetikNersisyan-blue)]([[https://www.linkedin.com/in/avetiknersisyan/](https://www.linkedin.com/in/avetik-nersisyan/)](https://www.linkedin.com/in/avetik-nersisyan/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-AvetikNersisyan-blue)](https://www.linkedin.com/in/avetiknersisyan/)(https://www.linkedin.com/in/avetik-nersisyan/)](https://www.linkedin.com/in/avetik-nersisyan/))
 [![GitHub](https://img.shields.io/badge/GitHub-AvetikNersisyan-lightgrey)](https://github.com/avetiknersisyan)
 
 [![Avetiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvetikNersisyan)](https://github.com/avetiknersisyan/github-readme-stats)
