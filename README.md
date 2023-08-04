@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Avetiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvetikNersisyan)](https://github.com/avetiknersisyan/github-readme-stats)
+
 <!--
 **AvetikNersisyan/AvetikNersisyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
