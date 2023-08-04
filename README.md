@@ -18,6 +18,8 @@ I'm open to connecting with fellow developers, tech enthusiasts, and potential c
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-AvetikNersisyan-blue)](https://www.linkedin.com/in/avetik-nersisyan/)
 [![GitHub](https://img.shields.io/badge/GitHub-AvetikNersisyan-lightgrey)](https://github.com/avetiknersisyan)
+[![Telegram](https://img.shields.io/badge/Telegram-AvetikNersisyan-blue)](https://t.me/AvetikN)
+
 
 [![Avetiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvetikNersisyan)](https://github.com/avetiknersisyan/github-readme-stats)
 
