@@ -1,4 +1,4 @@
-## Hi there! 👋 I'm Avetik Nersisyan
+##[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&multiline=true&width=435&lines=Hi+there!+%F0%9F%91%8B+I'm+Avetik+Nersisyan)](https://git.io/typing-svg)
 
 ### About Me
 I'm a passionate and experienced Full Stack Developer with a strong focus on building interactive and user-friendly applications. I specialize in using React, Next.js, and React Native to craft engaging front-end experiences, and I'm well-versed in TypeScript to ensure code quality and maintainability.
