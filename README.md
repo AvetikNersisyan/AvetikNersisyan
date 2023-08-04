@@ -25,7 +25,6 @@ I'm open to connecting with fellow developers, tech enthusiasts, and potential c
 
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AvetikNersisyan&hide_border=true)](https://git.io/streak-stats)
-![](https://komarev.com/ghpvc/?username=AvetikNersisyan)
 
 <!--
 **AvetikNersisyan/AvetikNersisyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
