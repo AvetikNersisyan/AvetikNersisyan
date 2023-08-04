@@ -23,6 +23,10 @@ I'm open to connecting with fellow developers, tech enthusiasts, and potential c
 
 [![Avetiks's GitHub stats](https://github-readme-stats.vercel.app/api?username=AvetikNersisyan)](https://github.com/avetiknersisyan/github-readme-stats)
 
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AvetikNersisyan&hide_border=true)](https://git.io/streak-stats)
+
+
 <!--
 **AvetikNersisyan/AvetikNersisyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
