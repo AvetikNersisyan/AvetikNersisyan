@@ -49,6 +49,7 @@ Claude
 Cursor
 GitHub Copilot
 ChatGPT
+
 🚀 Currently Interested In
 AI-powered applications
 SaaS products
